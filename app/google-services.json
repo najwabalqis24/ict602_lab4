@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63461652624",
+    "project_id": "lab4-balqis-d2d69",
+    "storage_bucket": "lab4-balqis-d2d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63461652624:android:1df623ea4d585baf7c8015",
+        "android_client_info": {
+          "package_name": "com.example.lab4_balqis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7jDZwp81nU52BBifdmYbKwSCpPGBp5_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
